@@ -1,0 +1,3 @@
+[submodule "PhasyTorn"]
+	path = PhasyTorn
+	url = git@github.com:weithhh/PhasyTorn.git
