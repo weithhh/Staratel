@@ -2,8 +2,8 @@
 
 * [Постановка задачи](#formulation)
 * [План работы](#plan)
-* [Таблица учета времени](#time)
 * [Описание устройства](#device)
+* [Таблица учета времени](#time)
 * [Источники информации](#references)
 * [Инструменты разработки](#tools)
 
@@ -139,7 +139,7 @@
 * Сайт [www.geotech1.com](https://www.geotech1.com/) и книга Inside The Metal Detector ISBN 978-0-9858342-1-0
 * Публикация Design and Implementation of a Low Cost VLF Metal Detector with Metal-Type Discrimination Capabilities DOI 10.1109/ICSPC.2007.4728360
 * Википедия [en.wikipedia.org/wiki/Metal_detector](https://en.wikipedia.org/wiki/Metal_detector) | [ru.wikipedia.org/wiki/Металлоискатель](https://ru.wikipedia.org/wiki/Металлоискатель)
-* [Всё о металлоискателях и металлодетекторах | izmer-ls.ru/met/sche1-1.html](http://izmer-ls.ru/met/sche1-1.html)
+* Всё о металлоискателях и металлодетекторах [izmer-ls.ru/met/sche1-1.html](http://izmer-ls.ru/met/sche1-1.html)
 * Схожие проекты
 	-  [Pulse Induction Metal Detector ENGN3227 Analogue Electronics | users.cecs.anu.edu.au/~Salman.Durrani/_teaching/TA5.pdf](https://users.cecs.anu.edu.au/~Salman.Durrani/_teaching/TA5.pdf)
 	- [Импульсный металлодетектор на ардуино FoxyPI | acdc.foxylab.com/node/47](https://acdc.foxylab.com/node/47)
