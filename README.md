@@ -80,7 +80,7 @@
 
 ### Поисковые катушки
 
-[Различные схемы построения катушек](https://www.geotech1.com/pages/metdet/info/coils.pdf)
+[Различные схемы построения катушек | www.geotech1.com/pages/metdet/info/coils.pdf](https://www.geotech1.com/pages/metdet/info/coils.pdf)
 
 Наиболее оптимальной схемой оказалась катушка по схеме Double D, в связи с относительной простотой ее балансировки.
 
@@ -136,32 +136,32 @@
 <a id="references"></a>
 ## Источники информации
 ### Металлодетекторы
-* Сайт [Geotech1](https://www.geotech1.com/) и книга Inside The Metal Detector ISBN 978-0-9858342-1-0 - огромное количество хорошо структурированной информации
+* Сайт [www.geotech1.com](https://www.geotech1.com/) и книга Inside The Metal Detector ISBN 978-0-9858342-1-0
 * Публикация Design and Implementation of a Low Cost VLF Metal Detector with Metal-Type Discrimination Capabilities DOI 10.1109/ICSPC.2007.4728360
-* Википедия [Metal detector](https://en.wikipedia.org/wiki/Metal_detector) | [Металлоискатель](https://ru.wikipedia.org/wiki/Металлоискатель)
-* [Всё о металлоискателях и металлодетекторах](http://izmer-ls.ru/met/sche1-1.html)
+* Википедия [en.wikipedia.org/wiki/Metal_detector](https://en.wikipedia.org/wiki/Metal_detector) | [ru.wikipedia.org/wiki/Металлоискатель](https://ru.wikipedia.org/wiki/Металлоискатель)
+* [Всё о металлоискателях и металлодетекторах | izmer-ls.ru/met/sche1-1.html](http://izmer-ls.ru/met/sche1-1.html)
 * Схожие проекты
-	-  [Pulse Induction Metal Detector ENGN3227 Analogue Electronics](https://users.cecs.anu.edu.au/~Salman.Durrani/_teaching/TA5.pdf)
-	- [Импульсный металлодетектор на ардуино FoxyPI](https://acdc.foxylab.com/node/47)
-	- [Easy to build pulse induction metal detector with DSP](https://www.lammertbies.nl/electronics/PI_metal_detector.html)
-	- [DIY Metal detector project with PIC12F1572 (or PIC12F1840) microcontroller.](http://www.digiwood.ee/8-electronic-projects/2-metal-detector-circuit)
+	-  [Pulse Induction Metal Detector ENGN3227 Analogue Electronics | users.cecs.anu.edu.au/~Salman.Durrani/_teaching/TA5.pdf](https://users.cecs.anu.edu.au/~Salman.Durrani/_teaching/TA5.pdf)
+	- [Импульсный металлодетектор на ардуино FoxyPI | acdc.foxylab.com/node/47](https://acdc.foxylab.com/node/47)
+	- [Easy to build pulse induction metal detector with DSP | www.lammertbies.nl/electronics/PI\_metal\_detector.html](https://www.lammertbies.nl/electronics/PI_metal_detector.html)
+	- [DIY Metal detector project with PIC12F1572 (or PIC12F1840) microcontroller | www.digiwood.ee/8-electronic-projects/2-metal-detector-circuit](http://www.digiwood.ee/8-electronic-projects/2-metal-detector-circuit)
 
 ### Документация STM32
-* [UM1570 Discovery kit with STM32F303VC MCU](https://www.st.com/resource/en/user_manual/dm00063382.pdf)
-* [STM32F303VC Datasheet](https://www.st.com/resource/en/datasheet/stm32f303vc.pdf)
-* [RM0316 Reference manual](https://www.st.com/resource/en/reference_manual/DM00043574.pdf)
-* [AN3126 Audio and waveform generation using the DAC in STM32 microcontrollers](https://www.st.com/resource/en/application_note/cd00259245.pdf)
-* [AN4776 General-purpose timer cookbook](https://www.st.com/resource/en/application_note/dm00236305.pdf)
-* [AN4195 STM32F30x ADC modes and application](https://www.st.com/resource/en/application_note/dm00069390.pdf)
+* [UM1570 Discovery kit with STM32F303VC MCU | www.st.com/resource/en/user_manual/dm00063382.pdf](https://www.st.com/resource/en/user_manual/dm00063382.pdf)
+* [STM32F303VC Datasheet | www.st.com/resource/en/datasheet/stm32f303vc.pdf](https://www.st.com/resource/en/datasheet/stm32f303vc.pdf)
+* [RM0316 Reference manual | www.st.com/resource/en/reference_manual/DM00043574.pdf](https://www.st.com/resource/en/reference_manual/DM00043574.pdf)
+* [AN3126 Audio and waveform generation using the DAC in STM32 microcontrollers | www.st.com/resource/en/application_note/cd00259245.pdf](https://www.st.com/resource/en/application_note/cd00259245.pdf)
+* [AN4776 General-purpose timer cookbook | https://www.st.com/resource/en/application_note/dm00236305.pdf](https://www.st.com/resource/en/application_note/dm00236305.pdf)
+* [AN4195 STM32F30x ADC modes and application | www.st.com/resource/en/application_note/dm00069390.pdf](https://www.st.com/resource/en/application_note/dm00069390.pdf)
 
 ### Различная информация
-* Курсы [All About Circuits](https://www.allaboutcircuits.com/education/)
+* Курсы [All About Circuits | www.allaboutcircuits.com/education/](https://www.allaboutcircuits.com/education/)
 
 
 <a id="tools"></a>
 ## Инструменты разработки
 * STM32CubeIde и STM32F30x\_DSP\_StdPeriph\_Lib\_V1.2.3
-* Симулятор схем [falstad](https://www.falstad.com/circuit/)
-* Калькулятор индуктивностей [Coil32](https://coil32.net/)
-* Калькулятор общего назначения [Qalculate!](https://qalculate.github.io/)
-* Визуализатор данных, передаваемых по серийному порту [SerialPlot](https://bitbucket.org/hyOzd/serialplot)
+* Симулятор схем [www.falstad.com/circuit](https://www.falstad.com/circuit/)
+* Калькулятор индуктивностей [coil32.net](https://coil32.net/)
+* Калькулятор общего назначения [qalculate.github.io](https://qalculate.github.io/)
+* Визуализатор данных, передаваемых по серийному порту [bitbucket.org/hyOzd/serialplot](https://bitbucket.org/hyOzd/serialplot)
